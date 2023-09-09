@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.2e2d91fa.css",
-    "main.js": "./static/js/main.7af05eaf.js",
+    "main.css": "./static/css/main.0397a1a7.css",
+    "main.js": "./static/js/main.d9addbcb.js",
     "static/media/blogpenit.png": "./static/media/blogpenit.e4b112ae68096c60252d.png",
     "static/media/hackerbash.png": "./static/media/hackerbash.623e8d4f838c850238f0.png",
     "static/media/loader.gif": "./static/media/loader.b0789e2a17a6ed5a1615.gif",
@@ -22,6 +22,7 @@
     "static/media/rest.png": "./static/media/rest.2379f84b2314f30ad6c3.png",
     "static/media/automaticqpg.png": "./static/media/automaticqpg.23730b45497d97a82e46.png",
     "static/media/contactMailDark.svg": "./static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/sql-server.png": "./static/media/sql-server.36a754ba68610e89482f.png",
     "static/media/google_cloud.png": "./static/media/google_cloud.663f54997eda8f17c3fd.png",
     "static/media/cypress.png": "./static/media/cypress.a21e4bfadb88778431fa.png",
     "static/media/c.png": "./static/media/c.5e46b117adbe664b7487.png",
@@ -30,18 +31,20 @@
     "static/media/json.webp": "./static/media/json.46f5d1f2709ffbd03b8e.webp",
     "static/media/angular.png": "./static/media/angular.785ac0a1f085dd2e8ab4.png",
     "static/media/jquery.webp": "./static/media/jquery.2ab41351ab9573d49481.webp",
+    "static/media/spring.webp": "./static/media/spring.79a0d703b20e7cb34462.webp",
     "static/media/supabase.png": "./static/media/supabase.62724b2e75a45d71b066.png",
     "static/media/mysql.png": "./static/media/mysql.aa790b3c3edcf0510519.png",
     "static/media/postgresql.png": "./static/media/postgresql.4bb8b3a2b24636bae4d7.png",
     "static/media/skill.svg": "./static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "static/media/confluence.webp": "./static/media/confluence.8a0eb8d4870314e76bd1.webp",
     "index.html": "./index.html",
     "static/media/trello.webp": "./static/media/trello.63d78be9ede2a9e3eb15.webp",
     "static/media/django.svg": "./static/media/django.0779fca292c0a723b464bcb7534f802c.svg",
-    "main.2e2d91fa.css.map": "./static/css/main.2e2d91fa.css.map",
-    "main.7af05eaf.js.map": "./static/js/main.7af05eaf.js.map"
+    "main.0397a1a7.css.map": "./static/css/main.0397a1a7.css.map",
+    "main.d9addbcb.js.map": "./static/js/main.d9addbcb.js.map"
   },
   "entrypoints": [
-    "static/css/main.2e2d91fa.css",
-    "static/js/main.7af05eaf.js"
+    "static/css/main.0397a1a7.css",
+    "static/js/main.d9addbcb.js"
   ]
 }

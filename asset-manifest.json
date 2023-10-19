@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.0397a1a7.css",
-    "main.js": "./static/js/main.d9addbcb.js",
+    "main.js": "./static/js/main.a119003a.js",
     "static/media/blogpenit.png": "./static/media/blogpenit.e4b112ae68096c60252d.png",
     "static/media/hackerbash.png": "./static/media/hackerbash.623e8d4f838c850238f0.png",
     "static/media/loader.gif": "./static/media/loader.b0789e2a17a6ed5a1615.gif",
@@ -21,11 +21,13 @@
     "static/media/skkes.png": "./static/media/skkes.f602d66e8a45db7bad4a.png",
     "static/media/rest.png": "./static/media/rest.2379f84b2314f30ad6c3.png",
     "static/media/automaticqpg.png": "./static/media/automaticqpg.23730b45497d97a82e46.png",
+    "static/media/mockito.png": "./static/media/mockito.28e5986f8d54a8ad89d6.png",
     "static/media/contactMailDark.svg": "./static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
     "static/media/sql-server.png": "./static/media/sql-server.36a754ba68610e89482f.png",
     "static/media/google_cloud.png": "./static/media/google_cloud.663f54997eda8f17c3fd.png",
     "static/media/cypress.png": "./static/media/cypress.a21e4bfadb88778431fa.png",
     "static/media/c.png": "./static/media/c.5e46b117adbe664b7487.png",
+    "static/media/jacoco.png": "./static/media/jacoco.80820809411d0520ee3d.png",
     "static/media/js.png": "./static/media/js.6b10805823ee818c8e78.png",
     "static/media/nodejs.png": "./static/media/nodejs.8e341cc00e4ec40c6a27.png",
     "static/media/json.webp": "./static/media/json.46f5d1f2709ffbd03b8e.webp",
@@ -33,6 +35,7 @@
     "static/media/jquery.webp": "./static/media/jquery.2ab41351ab9573d49481.webp",
     "static/media/spring.webp": "./static/media/spring.79a0d703b20e7cb34462.webp",
     "static/media/supabase.png": "./static/media/supabase.62724b2e75a45d71b066.png",
+    "static/media/swagger.png": "./static/media/swagger.afd1bfb8320b5e8ca2ce.png",
     "static/media/mysql.png": "./static/media/mysql.aa790b3c3edcf0510519.png",
     "static/media/postgresql.png": "./static/media/postgresql.4bb8b3a2b24636bae4d7.png",
     "static/media/skill.svg": "./static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
@@ -41,10 +44,10 @@
     "static/media/trello.webp": "./static/media/trello.63d78be9ede2a9e3eb15.webp",
     "static/media/django.svg": "./static/media/django.0779fca292c0a723b464bcb7534f802c.svg",
     "main.0397a1a7.css.map": "./static/css/main.0397a1a7.css.map",
-    "main.d9addbcb.js.map": "./static/js/main.d9addbcb.js.map"
+    "main.a119003a.js.map": "./static/js/main.a119003a.js.map"
   },
   "entrypoints": [
     "static/css/main.0397a1a7.css",
-    "static/js/main.d9addbcb.js"
+    "static/js/main.a119003a.js"
   ]
 }
